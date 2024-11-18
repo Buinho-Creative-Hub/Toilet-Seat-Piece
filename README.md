@@ -1,6 +1,6 @@
 # Toilet Seat Piece
 
-![Screw guide piece](/docs/screw_guide_piece_01.jpg "Screw guide piece")
+![Screw guide piece](/docs/screw_guide_piece_fusion_360_01.png "Screw guide piece")
 
 ## Problem
 
