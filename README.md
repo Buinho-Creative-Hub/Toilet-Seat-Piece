@@ -4,7 +4,7 @@
 
 ## Problem
 
-Buinho FabLab's bathrom's toilet seat was loose due to loose nuts and oxidation.
+Buinho FabLab's bathroom's toilet seat was loose due to loose nuts and oxidation.
 
 
 ## Solution
@@ -16,3 +16,4 @@ Both pieces that guide the toiled seat screw through the toiled body broke and n
 To accomplish this, 3D printing was the fabrication methodology chosen to create the replicas.
 
 This repo contains the digital files for the broken pieces replacements.
+
